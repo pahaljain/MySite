@@ -180,6 +180,11 @@ hr {
     p {
         clear: both;
     }
+    
+    .pic {
+    width: 8rem;
+    margin: 100px 0 100px;
+}
 }
 
 @media(max-width:370px) {
